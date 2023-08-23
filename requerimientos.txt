@@ -1,0 +1,39 @@
+## Configuración del Entorno
+
+- **Sistema Operativo:** Linux CentOS, Ubuntu ó Fedora (También podría correr en otros)
+- **Dependencias:** Ffmpeg, libpng-dev
+
+### Entorno principal
+- Python 3.9
+
+### Dependencias
+- envyaml==1.10.211231
+- streamlit==1.22.0
+- streamlit-javascript==0.1.5
+- streamlit-option-menu==0.3.2
+- st-clickable-images==0.0.3
+
+## Seguridad
+
+Todas las aplicaciones Streamlit se sirven completamente a través de HTTPS.
+Todos los datos enviados hacia o desde Streamlit a través de la Internet pública se cifran en tránsito mediante un cifrado de 256 bits.
+
+## Ejecución del Servidor
+
+Para ejecutar la aplicación Streamlit, sigue estos pasos:
+
+1. Ubica el directorio con los archivos.
+2. Abre una terminal en ese directorio.
+3. Ejecuta el siguiente comando: `streamlit run tablero.py`
+4. La aplicación se abrirá en un navegador web en el puerto 8501.
+
+## Recursos Adicionales
+
+- **Instalación de Python:** [Documentación oficial](https://docs.python.org/3/using/index.html)
+- **Configuración de un servidor Linux:**
+  - CentOS: [Guía de instalación de CentOS 8](https://www.centos.org/download/)
+  - Ubuntu: [Guía de instalación de Ubuntu Server 20.04](https://ubuntu.com/server/docs/installation)
+  - Fedora: [Guía de instalación de Fedora Server](https://docs.fedoraproject.org/en-US/fedora-server/install/)
+- **Documentación de Streamlit:**
+  - [Documentación de Streamlit](https://docs.streamlit.io/)
+  - [Galería de ejemplos de Streamlit](https://streamlit.io/gallery)

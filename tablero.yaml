@@ -1,0 +1,79 @@
+BACKGROUND: "https://img.freepik.com/premium-photo/white-virus-background_44769-1701.jpg"
+
+PROTOCOLOS:
+  DENGUE: "https://www.ins.gov.co/buscador-eventos/Lineamientos/Pro_Dengue.pdf"
+  ZIKA: "https://www.ins.gov.co/buscador-eventos/Lineamientos/Pro_Zika.pdf"
+  CHIKUNGUNYA: "https://www.ins.gov.co/buscador-eventos/Lineamientos/Pro_Chikungunya%202022.pdf"
+
+FICHA_NOTIFICACION:
+  DENGUE: "https://www.ins.gov.co/buscador-eventos/Lineamientos/210_220_580_Dengue_2022.pdf"
+  ZIKA: "https://www.ins.gov.co/buscador-eventos/Lineamientos/895_Zika_2022.pdf"
+  CHIKUNGUNYA: "https://www.ins.gov.co/buscador-eventos/Lineamientos/217_Chikungunya_2022.pdf"
+
+LINIAMIENTOS: "https://www.ins.gov.co/buscador-eventos/Lineamientos"
+
+PUBLICACIONES: "https://www.ins.gov.co/buscador-eventos/Paginas/Info-Evento.aspx"
+
+DICCIONARIO_DATOS: "https://www.ins.gov.co/BibliotecaDigital/diccionario-datos-sivigila.pdf"
+
+SIVIGILA: "https://portalsivigila.ins.gov.co/Paginas/datos.aspx?cod=130"
+
+LOGO_INS: "https://portalsivigila.ins.gov.co/_catalogs/masterpage/images/INS-Logo.svg"
+LOGO_SIVIGILA: "https://portalsivigila.ins.gov.co/_catalogs/masterpage/images/SivigilaLogo.svg"
+LOGO_OPS: "https://www.interamericancoalition-medtech.org/regulatory-convergence/wp-content/uploads/sites/4/2021/06/paho-logo-es.jpg"
+LOGO_MINISTERIO: "https://www.minsalud.gov.co/LogosInstitucionales/logo-gobierno-Ministerio-de-Salud-y-Proteccion-Social-minsalud.png"
+
+BOLETIN_EPIDEMIOLOGICO: "https://www.ins.gov.co/buscador-eventos/Paginas/Vista-Boletin-Epidemilogico.aspx"
+
+TABLERO_POWER_BI_INS:
+  DENGUE: "https://app.powerbi.com/view?r=eyJrIjoiOTIxMzE4MGItNjg4MC00ZmUyLWIwMzctODhlOWFjNzMyZmViIiwidCI6ImE2MmQ2YzdiLTlmNTktNDQ2OS05MzU5LTM1MzcxNDc1OTRiYiIsImMiOjR9"
+  ZIKA:
+  CHIKUNGUNYA:
+
+SIVIGILA_VISUALIZACION_INFORMES_PERIODO:
+  DENGUE: ['', '1', 'II', 'III', 'IV', 'V', 'VI', 'VII']
+  ZIKA: ['', 'III', 'VI']
+  CHIKUNGUNYA: ['', 'III', 'VI']
+
+ENLACE_INFORMES: "https://www.ins.gov.co/buscador-eventos/Informesdeevento/-VECTOR-%20PE%20-PERIODO-%20-ANO-.pdf"
+
+ANOS_INFORME: ['2022', '2023']
+
+INFORME_EVENTO:
+  DENGUE: "https://www.ins.gov.co/buscador-eventos/Informesdeevento/DENGUE%202022.pdf"
+  ZIKA:
+  CHIKUNGUNYA:
+
+ENTOMOLOGIA:
+  CARPETA_ENTOMOLOGIA: "./archivos_entomologia"
+  IMAGEN: "https://fotografias.antena3.com/clipping/cmsimages02/2022/06/03/859A1CFC-94AE-4254-9006-6F9CC070BFCC/remedios-caseros-alivio-picadura-mosquito_98.jpg?crop=1200,675,x0,y0&width=1900&height=1069&optimize=low&format=webply"
+  CIRCULARES: ['', "No. 2 de 2023", 'No. 13 de 2023']
+  REP_ANUALES: ['', "2021", '2022', '2023']
+  INSECTICIDAS: ['', "2021", '2022', '2023']
+  PROTOCOLOS: ['', "Pupas"]
+  BIBLIOGRAFIA: "https://www.google.com"
+  TABLERO_RESISTENCIA_A_INSECTICIDAS: "https://app.powerbi.com/view?r=eyJrIjoiYjc5NmRiYTQtM2NjMS00OTExLWE2NTgtMmY3MmUxMzBlZjAzIiwidCI6ImE2MmQ2YzdiLTlmNTktNDQ2OS05MzU5LTM1MzcxNDc1OTRiYiIsImMiOjR9"
+  TABLERO_MUESTRAS: "https://app.powerbi.com/view?r=eyJrIjoiMTJhZTc1NDAtMmU5Yi00YWYwLWFmMzQtOWIzY2E4ZDQyZTIxIiwidCI6ImE2MmQ2YzdiLTlmNTktNDQ2OS05MzU5LTM1MzcxNDc1OTRiYiIsImMiOjR9"
+  TABLERO_LEVANTAMIENTOS_ENTOMOLOGICOS: "https://app.powerbi.com/view?r=eyJrIjoiMjAzMzIyNjgtOWIzYi00ZTAyLTg3YjktMjY2OGRjMWUyMmFmIiwidCI6ImE2MmQ2YzdiLTlmNTktNDQ2OS05MzU5LTM1MzcxNDc1OTRiYiIsImMiOjR9&pageName=ReportSectionb8829e41af338370bd1e"
+
+TABLERO_INDICADORES:
+  DENGUE: "https://app.powerbi.com/view?r=eyJrIjoiYTU3NTI5ZjQtNTNkMi00ZTU4LThlYzYtNGQ4ZDdkNDhiMjlhIiwidCI6ImE2MmQ2YzdiLTlmNTktNDQ2OS05MzU5LTM1MzcxNDc1OTRiYiIsImMiOjR9"
+  ZIKA:
+  CHIKUNGUNYA:
+
+CANALES_ENDEMICOS:
+  DENGUE: "https://app.powerbi.com/reportEmbed?reportId=45fcbdf5-4837-4e84-995a-7ca642759a1f&autoAuth=true&ctid=a62d6c7b-9f59-4469-9359-3537147594bb"
+  ZIKA:
+  CHIKUNGUNYA:
+
+SERIES_TIEMPO:
+  DENGUE: "https://app.powerbi.com/links/fAvchzl-1g?ctid=a62d6c7b-9f59-4469-9359-3537147594bb&pbi_source=linkShare"
+  ZIKA:
+  CHIKUNGUNYA:
+
+RIESGO_AMB_BANNER: "https://www.ins.gov.co/Direcciones/Vigilancia/PublishingImages/06a%20Factores%20de%20reisgo%20ambien2%20httpaccioneticayresponsabilidadsocial.blogspot.com.jpg"
+
+RIESGO_AMBIENTAL:
+  DENGUE: "https://app.powerbi.com/view?r=eyJrIjoiMDc4YTgzYzktMjYwMC00NWEzLWE2MGMtYTZkNjlkMjFiNTFiIiwidCI6ImE2MmQ2YzdiLTlmNTktNDQ2OS05MzU5LTM1MzcxNDc1OTRiYiIsImMiOjR9"
+  CLIMA_SALUD:
+  GEOVISOR: "http://186.154.202.159/user/login/"
